@@ -1,0 +1,42 @@
+	p1{
+			font-size: 20pt;
+			font-family: Brush Script MT, cursive
+		}
+		.button {
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  transition-duration: 0.3s;
+  cursor: pointer;
+}
+.button3 {
+  background-color: #CAC7C7;
+  color: black;
+	margin : 10px;  
+  border: 5px solid #66A19D;
+}
+.button3:hover {
+  background-color: #66A19D;
+	color: white;
+	margin : 10px;  
+	border: 5px solid #66A19D;
+}
+#main {
+ width: 400px;
+  margin: auto;
+}
+.content {
+  max-width: 1600px;
+  margin: auto;
+}
+  body {
+    background:#CAC7C7;
+    display: flex;
+  }
+  canvas {
+    border: 1px solid black;
+		
+		
+  }
+	
